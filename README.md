@@ -1,0 +1,2 @@
+# cloneng
+pulls angular seed.
